@@ -1,0 +1,31 @@
+.sidebar {
+  z-index: 1000;
+}
+
+table thead th {
+  color: #fff;
+}
+
+table .no {
+  width: 5%;
+}
+
+table .materi {
+  width: 25%;
+}
+
+table .keterangan {
+  width: 50%;
+}
+
+table .aksi {
+  width: 20%;
+}
+
+a.tambah {
+  font-size: 1rem;
+}
+
+button.btn-delete {
+  width: 100%;
+}
